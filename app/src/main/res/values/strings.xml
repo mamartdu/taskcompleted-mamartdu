@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">taskcompleted</string>
+    <string name="completado">All tasks completed</string>
+    <string name="buenTrabajo">Nice work!</string>
+</resources>
